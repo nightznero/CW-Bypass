@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Camwhores.tv Private Vids
+// @name         CamWhores.tv Private Vids Bypasser
 // @namespace    http://www.camwhores.tv/*
 // @version      1.0
-// @description  automatically open private videos in a new tab using the URL script by reddit user Bakolas
+// @description  Open private videos in a new tab using the script by reddit user Bakolas
 // @author       NIGHTZNERO
 // @match        http://www.camwhores.tv/*
 // @grant        none
